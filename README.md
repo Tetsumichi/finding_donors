@@ -1,6 +1,8 @@
-# Machine Learning Engineer Nanodegree
-# Supervised Learning
-## Project: Finding Donors for CharityML
+# Finding Donors for CharityML
+
+The main objective of this project is to apply supervised learning techniques on data collected for the U.S. census to identify people most likely to donate to their cause.
+
+## Software Requirements
 
 ### Install
 
@@ -13,7 +15,7 @@ This project requires **Python 2.7** and the following Python libraries installe
 
 You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
 
-We recommend students install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project. 
+We recommend students install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
 
 ### Code
 
@@ -54,3 +56,6 @@ The modified census dataset consists of approximately 32,000 data points, with e
 
 **Target Variable**
 - `income`: Income Class (<=50K, >50K)
+
+
+This project is a part of the Machine Learning Engineer Nanodegree program at [Udacity](https://www.udacity.com/).
